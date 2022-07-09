@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(247, 238, 247);
+    border: solid rgb(6, 206, 206);
+
+    
+
+    justify-content: center;
+    
+}
+
+h2{
+    background-color: darkseagreen;
+    
+}
+#lg{
+    border-radius: 30px 30px 30px 30px;
+    
+
+}
